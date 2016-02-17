@@ -1,0 +1,43 @@
+<project name="selenium automation" default="compile" basedir=".">
+
+	<property name="src.dir" value="${basedir}/src"/>
+	<property name="class.dir" value="${basedir}/class"/>
+	<property name="externalLibreries.dir" value="${basedir}/externalLibreries"/>
+	<property name="results.dir" value="${basedir}/results"/>
+
+	<path id = "classpath">
+		<pathelement location= "${class.dir}" />
+		<fileset dir="${externalLibreries.dir}/">
+			<include name="**/*.jar" />
+		</fileset>
+
+	</path>
+
+
+	<target name="compile" >
+		
+		<!--clean the old classes-->
+		<delete dir="${class.dir}" failonerror="false"/>
+		<!--create new dist dir-->
+		<mkdir dir="${class.dir}"/>
+		<!-- delete old results -->
+		<delete dir="${results.dir}" failonerror="false"/>
+		<!--create new results dir-->
+		<mkdir dir="${results.dir}"/>
+		
+		<!--compile-->
+		<javac debug="on" classpathref="classpath" srcdir="${src.dir}" destdir="${class.dir}" includeantruntime="false" fork="yes" >
+			<compilerarg line="-encoding UTF-8 "/>
+		</javac>
+	</target>
+	<target name="run_tests" depends="compile">
+		<testng outputdir="${results.dir}" classpathref="classpath" useDefaultListeners = "false">
+			<xmlfileset dir="${basedir}" includes="testng.xml"/>
+		</testng>
+	</target>
+	
+	<!-- parse results 
+	<target name="parse_results" depends="run_tests">
+		<java classpathref="classpath.main" classname="lib.util.ParseResults"></java>
+	</target>-->
+</project>

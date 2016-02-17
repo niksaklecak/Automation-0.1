@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Test" parallel="false">
+ 
+    
+	<test name="Test1">  
+	
+  		<parameter name="browserType" value="firefox"/>
+  		<parameter name="remoteMachine" value="localhost"/>  
+    	<classes>
+    		<class name = "test.TestOpenCloseGoogle"/> 
+  		</classes>
+  		
+  	</test> <!-- Test -->
+</suite> <!-- Suite -->
