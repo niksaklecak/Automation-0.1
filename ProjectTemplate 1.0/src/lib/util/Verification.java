@@ -13,10 +13,10 @@ public class Verification {
 	public static void verifyPageExists(Page page) throws ElementNotVisibleException{
 		
 		WebElement identifier = page.webPageIndetifier();
-		log.info("==================="+page.getTitle()+"=======================");
-		Assert.assertEquals(identifier.isDisplayed(), true);
+		log.info("===================Opened "+page.getTitle()+" Page=======================");
+		Assert.assertTrue(identifier.isDisplayed());
 		Assert.fail("nije proslo");
-		
+		log.info("========================================================================");
 	}
 
 }
