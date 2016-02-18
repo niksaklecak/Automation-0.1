@@ -55,7 +55,7 @@ public class Browser {
 			System.out.println("misspelled browser");
 			break;
 		}
-		 
+		//System.out.println("http://"+remoteMachine+":4444/grid/console"); 
 		System.out.println("http://"+remoteMachine+":4444/wd/hub");
 		RemoteWebDriver rWebDriver = new RemoteWebDriver(new URL("http://"+remoteMachine+":4444/wd/hub"), capability);
 		rWebDriver.manage().timeouts().implicitlyWait(6, TimeUnit.SECONDS);

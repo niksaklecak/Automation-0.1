@@ -4,6 +4,7 @@ import java.net.MalformedURLException;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebDriverException;
+import org.testng.annotations.AfterClass;
 import org.testng.annotations.Test;
 
 import lib.Browser;
@@ -26,5 +27,9 @@ public class TestOpenCloseGoogle {
 		} catch (MalformedURLException e) {
 			e.printStackTrace();
 		}
+	}
+	@AfterClass 
+	public void tearDown(){
+		driver.close();
 	}
 }
