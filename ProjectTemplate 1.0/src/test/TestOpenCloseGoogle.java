@@ -7,7 +7,7 @@ import org.openqa.selenium.WebDriverException;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.Test;
 
-import lib.Browser;
+import lib.util.Browser;
 
 public class TestOpenCloseGoogle {
 

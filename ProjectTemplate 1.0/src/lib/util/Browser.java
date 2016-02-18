@@ -1,4 +1,4 @@
-package lib;
+package lib.util;
 
 
 import java.net.MalformedURLException;
