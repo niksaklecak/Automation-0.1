@@ -10,7 +10,7 @@ public class GooglePage extends Page {
 
 	@FindBy(id="lst-ib")
     private WebElement searchBox;
-    @FindBy(xpath = ".//*[@id='tsf']/div[2]/div[3]/center/input[1]")
+    @FindBy(xpath = ".//*[@id='sblsbb']/button")
     private WebElement searchButton;
     
 	public GooglePage(WebDriver driver, String title){
@@ -24,9 +24,7 @@ public class GooglePage extends Page {
 	public WebElement webPageIndetifier(){
 		return _driver.findElement(By.id("hplogo"));
 	}
-	public void openPage(){
-		_driver.get("http://www.google.com");
-	}
+	
 	public SearchResultsPage searchGoogle(String item){
 		searchBox.clear();
 		searchBox.sendKeys(item);

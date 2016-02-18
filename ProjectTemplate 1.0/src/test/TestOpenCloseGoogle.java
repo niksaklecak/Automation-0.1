@@ -11,6 +11,7 @@ import org.testng.annotations.Test;
 import lib.pages.GooglePage;
 import lib.pages.SearchResultsPage;
 import lib.util.Browser;
+import lib.util.Verification;
 
 public class TestOpenCloseGoogle {
 	SearchResultsPage searchResultPage;
@@ -24,11 +25,10 @@ public class TestOpenCloseGoogle {
 			Sleeper.sleepTightInSeconds(5);
 			GooglePage googlePage = Browser.openGooglePage(driver);
 			Sleeper.sleepTightInSeconds(3);
-			 
-			
+			Verification.verifyPageExists(googlePage);
 			searchResultPage = googlePage.searchGoogle("niksa kralj");
+			Verification.verifyPageExists(searchResultPage);
 			
-			//Verification
 		} catch (WebDriverException e) {
 			e.printStackTrace();
 		} catch (MalformedURLException e) {
