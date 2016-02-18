@@ -2,15 +2,19 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="1924" started-at="2016-02-17T20:10:41Z" finished-at="2016-02-17T20:10:43Z">
+  <suite name="Default suite" duration-ms="14451" started-at="2016-02-18T12:37:36Z" finished-at="2016-02-18T12:37:50Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="1924" started-at="2016-02-17T20:10:41Z" finished-at="2016-02-17T20:10:43Z">
+    <test name="Default test" duration-ms="14451" started-at="2016-02-18T12:37:36Z" finished-at="2016-02-18T12:37:50Z">
       <class name="test.TestOpenCloseGoogle">
-        <test-method status="PASS" signature="test()[pri:0, instance:test.TestOpenCloseGoogle@7bfcd12c]" name="test" duration-ms="1909" started-at="2016-02-17T21:10:41Z" finished-at="2016-02-17T21:10:43Z">
+        <test-method status="PASS" signature="test()[pri:0, instance:test.TestOpenCloseGoogle@270421f5]" name="test" duration-ms="13100" started-at="2016-02-18T13:37:36Z" finished-at="2016-02-18T13:37:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.TestOpenCloseGoogle@270421f5]" name="tearDown" is-config="true" duration-ms="1320" started-at="2016-02-18T13:37:49Z" finished-at="2016-02-18T13:37:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
       </class> <!-- test.TestOpenCloseGoogle -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->

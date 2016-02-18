@@ -11,8 +11,12 @@ import org.openqa.selenium.WebDriverException;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
+import org.openqa.selenium.support.PageFactory;
+
+import lib.pages.GooglePage;
 
 public class Browser {
+	//WebDriver _driver;
 	
 
 	/**
@@ -63,6 +67,11 @@ public class Browser {
 
 		return rWebDriver;		
 
+	}
+	
+	public static GooglePage openGooglePage(WebDriver driver){
+		driver.get("http://www.google.com");
+		return  PageFactory.initElements(driver, GooglePage.class);
 	}
 
 }

@@ -5,6 +5,7 @@
     <classes>
       <class name="test.TestOpenCloseGoogle">
         <methods>
+          <include name="tearDown"/>
           <include name="test"/>
         </methods>
       </class> <!-- test.TestOpenCloseGoogle -->

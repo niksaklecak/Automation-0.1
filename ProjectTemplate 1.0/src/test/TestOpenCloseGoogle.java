@@ -4,13 +4,16 @@ import java.net.MalformedURLException;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebDriverException;
+import org.openqa.selenium.server.browserlaunchers.Sleeper;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.Test;
 
+import lib.pages.GooglePage;
+import lib.pages.SearchResultsPage;
 import lib.util.Browser;
 
 public class TestOpenCloseGoogle {
-
+	SearchResultsPage searchResultPage;
 	WebDriver driver;
 	@Test
 	public void test(){
@@ -18,10 +21,14 @@ public class TestOpenCloseGoogle {
 		System.out.println("prosao");
 		try {
 			driver = Browser.openBrowserOnRemoteMasine("chrome", "127.0.0.1");
-			//secondPage = Page.openSignInPage(driver);
+			Sleeper.sleepTightInSeconds(5);
+			GooglePage googlePage = Browser.openGooglePage(driver);
+			Sleeper.sleepTightInSeconds(3);
+			 
 			
+			searchResultPage = googlePage.searchGoogle("niksa kralj");
 			
-			
+			//Verification
 		} catch (WebDriverException e) {
 			e.printStackTrace();
 		} catch (MalformedURLException e) {
@@ -33,3 +40,4 @@ public class TestOpenCloseGoogle {
 		driver.close();
 	}
 }
+ 
