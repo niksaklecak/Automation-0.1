@@ -12,6 +12,8 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.PageFactory;
 
+import lib.DeployPage;
+
 public class Driver {
 	
 
@@ -80,6 +82,12 @@ public class Driver {
 		logger.logInfo("Driver.openGooglePage - Open google page");
 		driver.get("http://www.google.com");
 		return  PageFactory.initElements(driver, GooglePage.class);
+	}
+	public static DeployPage openDeployPage(WebDriver driver){
+		AutomationLogger logger = new AutomationLogger();
+		logger.logInfo("Driver.openDeployPage - Open Deploy page");
+		driver.get("https://www.deployinc.com/category/whats-new/");
+		return  PageFactory.initElements(driver, DeployPage.class);
 	}
 
 }
