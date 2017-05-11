@@ -1,4 +1,4 @@
-package lib.util;
+package lib;
 
 import java.io.IOException;
 import org.openqa.selenium.WebDriver;
@@ -6,7 +6,7 @@ import org.openqa.selenium.WebDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 
-import lib.util.ReadPropertyFile;
+import lib.ReadPropertyFile;
 
 public class BaseTest {
 	

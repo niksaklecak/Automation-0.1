@@ -1,4 +1,4 @@
-package lib.util;
+package lib;
 
 import java.io.FileInputStream;
 import java.io.IOException;
