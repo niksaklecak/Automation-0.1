@@ -3,7 +3,6 @@ package lib.util;
 
 import java.net.MalformedURLException;
 import java.net.URL;
-import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.Capabilities;
 import org.openqa.selenium.WebDriver;
@@ -13,10 +12,7 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.PageFactory;
 
-import lib.pages.GooglePage;
-
-public class Browser {
-	//WebDriver _driver;
+public class Driver {
 	
 
 	/**
@@ -29,47 +25,59 @@ public class Browser {
 	 * @throws WebDriverException
 	 * @throws MalformedURLException
 	 */
+	Capabilities capability = null;
+	AutomationLogger logger = new AutomationLogger();
+
 	public static WebDriver openBrowserOnRemoteMasine(String browser, String remoteMachine)
 			throws WebDriverException, MalformedURLException {
 
 		browser = browser.toLowerCase();
 		Capabilities capability = null;
+		AutomationLogger logger = new AutomationLogger();
 		switch (browser){
 		
 		case"firefox":
-			System.out.println("firefox");
+			logger.logInfo("Driver.openBrowserOnRemoteMasine - firefox opened");
 			capability = DesiredCapabilities.firefox();
 			break;
 		case"chrome":
-			System.out.println("chrome");
+			logger.logInfo("Driver.openBrowserOnRemoteMasine - chrome");
 			capability = DesiredCapabilities.chrome();
 			System.setProperty("webdriver.chrome.driver", "//chromedriver.exe");
 			ChromeOptions options = new ChromeOptions();
 			((DesiredCapabilities) capability).setCapability(ChromeOptions.CAPABILITY, options);
 			break;
 		case"safary":
-			System.out.println("safary");
+			logger.logInfo("Driver.openBrowserOnRemoteMasine - safary");
 			capability = DesiredCapabilities.safari();
 			break;
 		case"iexplorer":
-			System.out.println("internetExplorer");
+			logger.logInfo("Driver.openBrowserOnRemoteMasine - explorer");
 			capability = DesiredCapabilities.internetExplorer();
 			break;
+		case"htmlunit":
+			logger.logInfo("Driver.openBrowserOnRemoteMasine - headless Driver htmlUnit");
+			capability = DesiredCapabilities.htmlUnit();
+			break;
 		default:
-			System.out.println("misspelled browser");
+			logger.logError("Driver.openBrowserOnRemoteMasine - Driver missspelled in config.properties ERROR");
 			break;
 		}
-		//System.out.println("http://"+remoteMachine+":4444/grid/console"); 
-		System.out.println("http://"+remoteMachine+":4444/wd/hub");
+		logger.logInfo("Driver.openBrowserOnRemoteMasine - Open browser on remote machine " + remoteMachine);
 		RemoteWebDriver rWebDriver = new RemoteWebDriver(new URL("http://"+remoteMachine+":4444/wd/hub"), capability);
-		rWebDriver.manage().timeouts().implicitlyWait(6, TimeUnit.SECONDS);
+		logger.logInfo("Driver.openBrowserOnRemoteMasine - Maximize the browser");
 		rWebDriver.manage().window().maximize();
-
-		return rWebDriver;		
+		
+		return  rWebDriver;
+		
 
 	}
 	
+	
+	
 	public static GooglePage openGooglePage(WebDriver driver){
+		AutomationLogger logger = new AutomationLogger();
+		logger.logInfo("Driver.openGooglePage - Open google page");
 		driver.get("http://www.google.com");
 		return  PageFactory.initElements(driver, GooglePage.class);
 	}

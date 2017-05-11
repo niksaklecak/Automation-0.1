@@ -1,17 +1,22 @@
-package lib.pages;
+package lib.util;
 
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.How;
 import org.openqa.selenium.support.PageFactory;
 
-public class GooglePage extends Page {
+public class GooglePage extends BasePage {
 
 	@FindBy(id="lst-ib")
     private WebElement searchBox;
-    @FindBy(xpath = ".//*[@id='sblsbb']/button")
+	
+    @FindBy(how = How.NAME, using = "btnK")
     private WebElement searchButton;
+    
+    
+    @FindBy(how = How.CLASS_NAME, using = "sbico-c")
+    private WebElement search;
     
 	public GooglePage(WebDriver driver, String title){
 		super(driver,title);
@@ -22,13 +27,17 @@ public class GooglePage extends Page {
 	
 	@Override
 	public WebElement webPageIndetifier(){
-		return _driver.findElement(By.id("hplogo"));
+		return searchButton;
 	}
 	
 	public SearchResultsPage searchGoogle(String item){
 		searchBox.clear();
 		searchBox.sendKeys(item);
-		searchButton.click();
-		return  PageFactory.initElements(_driver, SearchResultsPage.class);
+		search.click();
+		return  PageFactory.initElements(driver, SearchResultsPage.class);
+	}
+	@Override
+	public String getName() {
+		return "GooglePage";
 	}
 }
