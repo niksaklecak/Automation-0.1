@@ -3,12 +3,14 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="test.TestOpenCloseGoogle">
+      <class name="test.FirstTest">
         <methods>
+          <include name="setUp"/>
+          <include name="testStaticContent"/>
           <include name="tearDown"/>
-          <include name="test"/>
+          <include name="testTitles"/>
         </methods>
-      </class> <!-- test.TestOpenCloseGoogle -->
+      </class> <!-- test.FirstTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -11,7 +11,8 @@ public class DeployPage extends BasePage {
 	@FindBy(id="logo")
     private WebElement logo;
 	
-    
+	@FindBy(css = "#logo > a > img")
+    private WebElement imageLogo;
     
 	public DeployPage(WebDriver driver, String title){
 		super(driver,title);
@@ -28,5 +29,11 @@ public class DeployPage extends BasePage {
 	@Override
 	public String getName() {
 		return "DeployPage";
+	}
+	public WebElement getLogo(){
+		return logo;
+	}
+	public boolean isLogoDiplayed(){
+		return imageLogo.isDisplayed();
 	}
 }

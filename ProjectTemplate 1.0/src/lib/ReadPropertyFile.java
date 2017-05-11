@@ -2,6 +2,8 @@ package lib;
 
 import java.io.FileInputStream;
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Properties;
 
 import org.apache.log4j.PropertyConfigurator;
@@ -29,6 +31,13 @@ public class ReadPropertyFile {
 	public void loadLog4jProperties(){
 		PropertyConfigurator.configure(property);
 	}
+	public String getTitle(int i) throws IOException{
+		return property.getProperty("title"+i);
+	}
+	public String getContent(int i) throws IOException{
+		return property.getProperty("content"+i);
+	}
+	
 	
 
 }
