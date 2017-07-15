@@ -20,6 +20,9 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.Duration;
 import org.openqa.selenium.support.ui.Sleeper;
+import org.sikuli.script.FindFailed;
+import org.sikuli.script.ImagePath;
+import org.sikuli.script.Screen;
 
 import autoitx4java.AutoItX;
 
@@ -33,8 +36,22 @@ public class InsidemapsListingPage extends BasePage {
     private WebElement changeProjectLogo;
 	@FindBy(css = "div.modal-body.ng-scope > a:nth-child(4)")
     private WebElement changeLogoButton;
-	
-    
+    @FindBy(css = " div > div.modal-footer.ng-scope > button")
+    private WebElement changeLogoCloseButton;
+    @FindBy(css = "#project-info-div > h1")
+    private WebElement listingAddress;
+    @FindBy(css = "form > div:nth-child(1) > input")
+    private WebElement nameInput;
+    @FindBy(css = "form > div:nth-child(2) > input")
+    private WebElement addressInput;
+    @FindBy(css = "form > div:nth-child(3) > input")
+    private WebElement cityInput;
+    @FindBy(css = "form > div:nth-child(4) > input")
+    private WebElement stateInput;
+    @FindBy(css = "a.btn.btn-success.pull-left")
+    private WebElement applyButton;
+    @FindBy(css = "#project-info-div > h3")
+    private WebElement addressLabel;
 	public InsidemapsListingPage(WebDriver driver, String title){
 		super(driver,title);
 	}
@@ -65,19 +82,41 @@ public class InsidemapsListingPage extends BasePage {
 	public void changeLogo(){
 		changeLogoButton.click();
 	}
-	public void uploadFiles() throws AWTException {
+	public void uploadFiles() {
 
+		
+		HandlingDesktopWindows x = new HandlingDesktopWindows(); 
+		x.sleep(1000);
 		changeLogoButton.click();
-		AutoItX x = new AutoItX();
-		x.sleep(2000);
-	    x.send("C:/Images/newLogo.jpg" );
-	    x.send("{ENTER}!n" );
-		try {
-			Sleeper.SYSTEM_SLEEPER.sleep(new Duration(10, TimeUnit.SECONDS));
-		} catch (InterruptedException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-	    
+		x.sleep(1000);
+		x.setUploadFile();
+		x.sleep(1000);
+		changeLogoCloseButton.click();
+		x.sleep(1000);
 	}
+	public boolean changedLogoPresent(){
+		
+		Screen s = new Screen();
+		ImagePath.add("C:\\Images");
+		
+		try {
+			s.find("defaultLogo.jpg");
+		} catch (FindFailed e) {
+			 
+			e.printStackTrace();
+			return false;
+		}
+	return true;
+	}
+	
+	public void editListingAddress(String address){
+		listingAddress.click();
+		addressInput.clear();
+		addressInput.sendKeys(address);
+		applyButton.click();
+	}
+	public String getListingAddress(){
+		return addressLabel.getText();
+	}
+	
 }
