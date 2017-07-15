@@ -15,7 +15,7 @@ public class Verification {
 		
 		
 		WebElement identifier = page.webPageIndetifier();
-		WebDriverWait wait = new WebDriverWait(page.driver, 5);
+		WebDriverWait wait = new WebDriverWait(page.driver, 15);
 		wait.until(ExpectedConditions.visibilityOf(identifier));
 
 		try{

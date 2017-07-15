@@ -1,0 +1,910 @@
+2017-05-11 13:38:18,471 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 13:38:18,539 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 13:38:18,590 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 13:38:22,220 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 13:38:23,445 - lib.AutomationLogger -INFO - FirstTest.test1 - Start tests on deploy page
+2017-05-11 13:38:23,451 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 13:38:25,960 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 13:43:36,462 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 13:43:36,473 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 13:43:36,492 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 13:43:39,176 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 13:43:40,411 - lib.AutomationLogger -INFO - FirstTest.test1 - Start tests on deploy page
+2017-05-11 13:43:40,424 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 13:43:42,831 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 13:44:36,734 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 13:44:36,744 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 13:44:36,760 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 13:44:39,467 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 13:44:40,652 - lib.AutomationLogger -INFO - FirstTest.test1 - Start tests on deploy page
+2017-05-11 13:44:40,659 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 13:44:43,149 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 13:48:18,586 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 13:48:18,597 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 13:48:18,622 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 13:48:21,354 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 13:48:22,620 - lib.AutomationLogger -INFO - FirstTest.test1 - Start tests on deploy page
+2017-05-11 13:48:22,633 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 13:48:25,115 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 13:55:02,568 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 13:55:02,578 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 13:55:02,600 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 13:55:05,325 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 13:55:06,471 - lib.AutomationLogger -INFO - FirstTest.test1 - Start tests on deploy page
+2017-05-11 13:55:06,503 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 13:55:09,010 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 13:56:11,952 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 13:56:11,965 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 13:56:11,982 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 13:56:14,694 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 13:56:15,909 - lib.AutomationLogger -INFO - FirstTest.test1 - Start tests on deploy page
+2017-05-11 13:56:15,920 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 13:56:18,276 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 13:59:21,891 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 13:59:21,902 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 13:59:21,919 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 13:59:24,618 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 13:59:25,826 - lib.AutomationLogger -INFO - FirstTest.test1 - Start tests on deploy page
+2017-05-11 13:59:25,839 - lib.AutomationLogger -INFO - Driver.openGooglePage - Open google page
+2017-05-11 13:59:27,549 - lib.AutomationLogger -INFO - Verification.pageLoaded - page GooglePage is loaded
+2017-05-11 13:59:27,717 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 14:01:34,325 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 14:01:34,335 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 14:01:34,352 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 14:01:37,063 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 14:01:38,241 - lib.AutomationLogger -INFO - FirstTest.test1 - Start tests on deploy page
+2017-05-11 14:01:38,250 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 14:01:40,717 - lib.AutomationLogger -INFO - Verification.pageLoaded - page DeployPage is loaded
+2017-05-11 14:01:40,809 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 14:58:43,474 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 14:58:43,487 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 14:58:43,519 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 14:58:46,277 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 14:58:47,509 - lib.AutomationLogger -INFO - FirstTest.loadDeployBlogPage - Start tests on deploy page
+2017-05-11 14:58:47,522 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 14:58:50,191 - lib.AutomationLogger -INFO - Verification.pageLoaded - page DeployPage is loaded
+2017-05-11 14:58:50,194 - lib.AutomationLogger -INFO - FirstTest.loadVerifySiteLogo - loadVerifySiteLogo
+2017-05-11 14:58:50,339 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 15:02:00,886 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 15:02:00,899 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 15:02:00,917 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 15:02:03,571 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 15:02:04,816 - lib.AutomationLogger -INFO - FirstTest.testDeployBlogPage - Start tests on deploy page
+2017-05-11 15:02:04,829 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 15:02:07,109 - lib.AutomationLogger -INFO - Verification.pageLoaded - page DeployPage is loaded
+2017-05-11 15:02:07,112 - lib.AutomationLogger -INFO - FirstTest.testVerifySiteLogo - testVerifySiteLogo
+2017-05-11 15:02:07,235 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 15:03:24,661 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 15:03:24,673 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 15:03:24,695 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 15:03:27,328 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 15:03:28,539 - lib.AutomationLogger -INFO - FirstTest.testDeployBlogPage - Start tests on deploy page
+2017-05-11 15:03:28,553 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 15:03:31,798 - lib.AutomationLogger -INFO - Verification.pageLoaded - page DeployPage is loaded
+2017-05-11 15:03:31,801 - lib.AutomationLogger -INFO - FirstTest.testVerifySiteLogo - testVerifySiteLogo
+2017-05-11 15:03:34,172 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 15:04:03,553 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 15:04:03,565 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 15:04:03,581 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 15:04:06,302 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 15:04:07,513 - lib.AutomationLogger -INFO - FirstTest.testDeployBlogPage - Start tests on deploy page
+2017-05-11 15:04:07,525 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 15:04:09,933 - lib.AutomationLogger -INFO - Verification.pageLoaded - page DeployPage is loaded
+2017-05-11 15:04:09,936 - lib.AutomationLogger -INFO - FirstTest.testVerifySiteLogo - testVerifySiteLogo
+2017-05-11 15:04:10,091 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 15:05:03,210 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 15:05:03,223 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 15:05:03,241 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 15:05:05,946 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 15:05:07,169 - lib.AutomationLogger -INFO - FirstTest.testDeployBlogPage - Start tests on deploy page
+2017-05-11 15:05:07,187 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 15:05:09,541 - lib.AutomationLogger -INFO - Verification.pageLoaded - page DeployPage is loaded
+2017-05-11 15:05:09,544 - lib.AutomationLogger -INFO - FirstTest.testVerifySiteLogo - testVerifySiteLogo
+2017-05-11 15:05:09,692 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 15:05:33,892 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 15:05:33,904 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 15:05:33,921 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 15:05:36,600 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 15:05:37,879 - lib.AutomationLogger -INFO - FirstTest.testDeployBlogPage - Start tests on deploy page
+2017-05-11 15:05:37,889 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 15:05:40,151 - lib.AutomationLogger -INFO - Verification.pageLoaded - page DeployPage is loaded
+2017-05-11 15:05:40,154 - lib.AutomationLogger -INFO - FirstTest.testVerifySiteLogo - testVerifySiteLogo
+2017-05-11 15:05:40,336 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 15:07:07,405 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 15:07:07,420 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 15:07:07,437 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 15:07:10,078 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 15:07:11,348 - lib.AutomationLogger -INFO - FirstTest.testDeployBlogPage - Start tests on deploy page
+2017-05-11 15:07:11,370 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 15:07:14,411 - lib.AutomationLogger -INFO - Verification.pageLoaded - page DeployPage is loaded
+2017-05-11 15:07:14,414 - lib.AutomationLogger -INFO - FirstTest.testVerifySiteLogo - testVerifySiteLogo
+2017-05-11 15:07:14,542 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 15:09:43,319 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 15:09:43,335 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 15:09:43,355 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 15:09:46,034 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 15:09:47,241 - lib.AutomationLogger -INFO - FirstTest.testDeployBlogPage - Start tests on deploy page
+2017-05-11 15:09:47,252 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 15:09:49,648 - lib.AutomationLogger -INFO - Verification.pageLoaded - page DeployPage is loaded
+2017-05-11 15:09:49,651 - lib.AutomationLogger -INFO - FirstTest.testVerifySiteLogo - testVerifySiteLogo
+2017-05-11 15:09:49,799 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 15:47:04,127 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 15:47:04,146 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 15:47:04,163 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 15:47:06,907 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 15:47:08,131 - lib.AutomationLogger -INFO - FirstTest.testDeployBlogPage - Start tests on deploy page
+2017-05-11 15:47:08,146 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 15:47:10,427 - lib.AutomationLogger -INFO - Verification.pageLoaded - page DeployPage is loaded
+2017-05-11 15:47:10,495 - lib.AutomationLogger -INFO - What’s new
+2017-05-11 15:47:10,527 - lib.AutomationLogger -INFO - Deploy Holiday Party 2015
+2017-05-11 15:47:10,558 - lib.AutomationLogger -INFO - Ray Super Remote is here!
+2017-05-11 15:47:10,590 - lib.AutomationLogger -INFO - Deploy Tech Session – Technologies Behind Ray
+2017-05-11 15:47:10,621 - lib.AutomationLogger -INFO - Deploy releases PhotoTicker for iPad
+2017-05-11 15:47:10,655 - lib.AutomationLogger -INFO - Deploy Releases Share My Contact for iPhone
+2017-05-11 15:47:10,687 - lib.AutomationLogger -INFO - Deploy Event Sponsorship
+2017-05-11 15:47:10,726 - lib.AutomationLogger -INFO - Deploy Holiday Party
+2017-05-11 15:47:10,757 - lib.AutomationLogger -INFO - JobFair 2014 @ETF
+2017-05-11 15:47:10,793 - lib.AutomationLogger -INFO - We’re moving to a bigger, nicer office!
+2017-05-11 15:47:10,796 - lib.AutomationLogger -INFO - FirstTest.testVerifySiteLogo - testVerifySiteLogo
+2017-05-11 15:47:10,950 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 16:05:26,228 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 16:05:26,242 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 16:05:26,259 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 16:05:28,970 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 16:05:30,218 - lib.AutomationLogger -INFO - FirstTest.testDeployBlogPage - Start tests on deploy page
+2017-05-11 16:05:30,233 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 16:05:32,548 - lib.AutomationLogger -INFO - Verification.pageLoaded - page DeployPage is loaded
+2017-05-11 16:05:32,619 - lib.AutomationLogger -INFO - FirstTest.testVerifySiteLogo - testVerifySiteLogo
+2017-05-11 16:05:32,764 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 16:58:32,463 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 16:58:32,482 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 16:58:32,507 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 16:58:35,239 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 16:58:36,479 - lib.AutomationLogger -INFO - FirstTest.testDeployBlogPage - Start tests on deploy page
+2017-05-11 16:58:36,498 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 16:58:39,095 - lib.AutomationLogger -INFO - Verification.pageLoaded - page DeployPage is loaded
+2017-05-11 16:58:39,215 - lib.AutomationLogger -INFO - FirstTest.testVerifySiteLogo - testVerifySiteLogo
+2017-05-11 16:58:40,264 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 17:00:24,694 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 17:00:24,710 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 17:00:24,726 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 17:00:27,400 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 17:00:28,616 - lib.AutomationLogger -INFO - FirstTest.testDeployBlogPage - Start tests on deploy page
+2017-05-11 17:00:28,631 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 17:00:31,000 - lib.AutomationLogger -INFO - Verification.pageLoaded - page DeployPage is loaded
+2017-05-11 17:00:31,102 - lib.AutomationLogger -INFO - FirstTest.testVerifySiteLogo - testVerifySiteLogo
+2017-05-11 17:00:31,727 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 17:17:19,381 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 17:17:19,395 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 17:17:19,412 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 17:17:22,297 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 17:17:23,801 - lib.AutomationLogger -INFO - FirstTest.testDeployBlogPage - Start tests on deploy page
+2017-05-11 17:17:23,819 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 17:17:26,882 - lib.AutomationLogger -INFO - Verification.pageLoaded - page DeployPage is loaded
+2017-05-11 17:17:27,053 - lib.AutomationLogger -INFO - FirstTest.testVerifySiteLogo - testVerifySiteLogo
+2017-05-11 17:17:27,827 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 17:19:24,110 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 17:19:24,128 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 17:19:24,145 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 17:19:26,798 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 17:19:28,048 - lib.AutomationLogger -INFO - FirstTest.testDeployBlogPage - Start tests on deploy page
+2017-05-11 17:19:28,068 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 17:19:38,365 - lib.AutomationLogger -INFO - Verification.pageLoaded - page DeployPage is loaded
+2017-05-11 17:19:38,474 - lib.AutomationLogger -INFO - FirstTest.testVerifySiteLogo - testVerifySiteLogo
+2017-05-11 17:19:38,981 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 17:21:36,149 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 17:21:36,167 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 17:21:36,184 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 17:21:38,842 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 17:21:40,083 - lib.AutomationLogger -INFO - FirstTest.testDeployBlogPage - Start tests on deploy page
+2017-05-11 17:21:40,103 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 17:21:46,395 - lib.AutomationLogger -INFO - Verification.pageLoaded - page DeployPage is loaded
+2017-05-11 17:21:46,507 - lib.AutomationLogger -INFO - What's new==What’s new
+2017-05-11 17:21:46,537 - lib.AutomationLogger -INFO - Deploy Holiday Party 2015==Deploy Holiday Party 2015
+2017-05-11 17:21:46,566 - lib.AutomationLogger -INFO - Ray Super Remote is here!==Ray Super Remote is here!
+2017-05-11 17:21:46,598 - lib.AutomationLogger -INFO - Deploy Tech Session - Technologies Behind Ray==Deploy Tech Session – Technologies Behind Ray
+2017-05-11 17:21:46,630 - lib.AutomationLogger -INFO - Deploy releases PhotoTicker for iPad==Deploy releases PhotoTicker for iPad
+2017-05-11 17:21:46,661 - lib.AutomationLogger -INFO - Deploy Releases Share My Contact for iPhone==Deploy Releases Share My Contact for iPhone
+2017-05-11 17:21:46,688 - lib.AutomationLogger -INFO - Deploy Event Sponsorship==Deploy Event Sponsorship
+2017-05-11 17:21:46,718 - lib.AutomationLogger -INFO - Deploy Holiday Party==Deploy Holiday Party
+2017-05-11 17:21:46,748 - lib.AutomationLogger -INFO - JobFair 2014 @ETF==JobFair 2014 @ETF
+2017-05-11 17:21:46,781 - lib.AutomationLogger -INFO - We're moving to a bigger, nicer office!==We’re moving to a bigger, nicer office!
+2017-05-11 17:21:46,784 - lib.AutomationLogger -INFO - FirstTest.testVerifySiteLogo - testVerifySiteLogo
+2017-05-11 17:21:47,440 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 17:29:16,921 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 17:29:16,937 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 17:29:16,956 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 17:29:19,623 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 17:29:20,853 - lib.AutomationLogger -INFO - FirstTest.testDeployBlogPage - Start tests on deploy page
+2017-05-11 17:29:20,874 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 17:29:24,192 - lib.AutomationLogger -INFO - Verification.pageLoaded - page DeployPage is loaded
+2017-05-11 17:29:24,318 - lib.AutomationLogger -INFO - What's new==What’s new
+2017-05-11 17:29:24,367 - lib.AutomationLogger -INFO - Deploy Holiday Party 2015==Deploy Holiday Party 2015
+2017-05-11 17:29:24,413 - lib.AutomationLogger -INFO - Ray Super Remote is here!==Ray Super Remote is here!
+2017-05-11 17:29:24,455 - lib.AutomationLogger -INFO - Deploy Tech Session - Technologies Behind Ray==Deploy Tech Session – Technologies Behind Ray
+2017-05-11 17:29:24,499 - lib.AutomationLogger -INFO - Deploy releases PhotoTicker for iPad==Deploy releases PhotoTicker for iPad
+2017-05-11 17:29:24,547 - lib.AutomationLogger -INFO - Deploy Releases Share My Contact for iPhone==Deploy Releases Share My Contact for iPhone
+2017-05-11 17:29:24,593 - lib.AutomationLogger -INFO - Deploy Event Sponsorship==Deploy Event Sponsorship
+2017-05-11 17:29:24,641 - lib.AutomationLogger -INFO - Deploy Holiday Party==Deploy Holiday Party
+2017-05-11 17:29:24,684 - lib.AutomationLogger -INFO - JobFair 2014 @ETF==JobFair 2014 @ETF
+2017-05-11 17:29:24,725 - lib.AutomationLogger -INFO - We're moving to a bigger, nicer office!==We’re moving to a bigger, nicer office!
+2017-05-11 17:29:24,728 - lib.AutomationLogger -INFO - FirstTest.testVerifySiteLogo - testVerifySiteLogo
+2017-05-11 17:29:25,315 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 17:30:55,528 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 17:30:55,545 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 17:30:55,563 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 17:30:58,248 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 17:30:59,470 - lib.AutomationLogger -INFO - FirstTest.testDeployBlogPage - Start tests on deploy page
+2017-05-11 17:30:59,489 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 17:31:03,516 - lib.AutomationLogger -INFO - Verification.pageLoaded - page DeployPage is loaded
+2017-05-11 17:31:03,629 - lib.AutomationLogger -INFO - What/'s new==What’s new
+2017-05-11 17:31:03,677 - lib.AutomationLogger -INFO - Deploy Holiday Party 2015==Deploy Holiday Party 2015
+2017-05-11 17:31:03,722 - lib.AutomationLogger -INFO - Ray Super Remote is here!==Ray Super Remote is here!
+2017-05-11 17:31:03,765 - lib.AutomationLogger -INFO - Deploy Tech Session /- Technologies Behind Ray==Deploy Tech Session – Technologies Behind Ray
+2017-05-11 17:31:03,814 - lib.AutomationLogger -INFO - Deploy releases PhotoTicker for iPad==Deploy releases PhotoTicker for iPad
+2017-05-11 17:31:03,860 - lib.AutomationLogger -INFO - Deploy Releases Share My Contact for iPhone==Deploy Releases Share My Contact for iPhone
+2017-05-11 17:31:03,904 - lib.AutomationLogger -INFO - Deploy Event Sponsorship==Deploy Event Sponsorship
+2017-05-11 17:31:03,948 - lib.AutomationLogger -INFO - Deploy Holiday Party==Deploy Holiday Party
+2017-05-11 17:31:03,997 - lib.AutomationLogger -INFO - JobFair 2014 @ETF==JobFair 2014 @ETF
+2017-05-11 17:31:04,048 - lib.AutomationLogger -INFO - We/'re moving to a bigger, nicer office!==We’re moving to a bigger, nicer office!
+2017-05-11 17:31:04,050 - lib.AutomationLogger -INFO - FirstTest.testVerifySiteLogo - testVerifySiteLogo
+2017-05-11 17:31:04,760 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 17:32:57,081 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 17:32:57,098 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 17:32:57,116 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 17:32:59,897 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 17:33:01,111 - lib.AutomationLogger -INFO - FirstTest.testDeployBlogPage - Start tests on deploy page
+2017-05-11 17:33:01,126 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 17:33:04,404 - lib.AutomationLogger -INFO - Verification.pageLoaded - page DeployPage is loaded
+2017-05-11 17:33:04,526 - lib.AutomationLogger -INFO - What//'s new==What’s new
+2017-05-11 17:33:04,575 - lib.AutomationLogger -INFO - Deploy Holiday Party 2015==Deploy Holiday Party 2015
+2017-05-11 17:33:04,622 - lib.AutomationLogger -INFO - Ray Super Remote is here!==Ray Super Remote is here!
+2017-05-11 17:33:04,668 - lib.AutomationLogger -INFO - Deploy Tech Session /- Technologies Behind Ray==Deploy Tech Session – Technologies Behind Ray
+2017-05-11 17:33:04,717 - lib.AutomationLogger -INFO - Deploy releases PhotoTicker for iPad==Deploy releases PhotoTicker for iPad
+2017-05-11 17:33:04,767 - lib.AutomationLogger -INFO - Deploy Releases Share My Contact for iPhone==Deploy Releases Share My Contact for iPhone
+2017-05-11 17:33:04,818 - lib.AutomationLogger -INFO - Deploy Event Sponsorship==Deploy Event Sponsorship
+2017-05-11 17:33:04,866 - lib.AutomationLogger -INFO - Deploy Holiday Party==Deploy Holiday Party
+2017-05-11 17:33:04,915 - lib.AutomationLogger -INFO - JobFair 2014 @ETF==JobFair 2014 @ETF
+2017-05-11 17:33:04,964 - lib.AutomationLogger -INFO - We/'re moving to a bigger, nicer office!==We’re moving to a bigger, nicer office!
+2017-05-11 17:33:04,967 - lib.AutomationLogger -INFO - FirstTest.testVerifySiteLogo - testVerifySiteLogo
+2017-05-11 17:33:05,584 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 17:33:51,379 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 17:33:51,398 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 17:33:51,416 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 17:33:54,140 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 17:33:55,366 - lib.AutomationLogger -INFO - FirstTest.testDeployBlogPage - Start tests on deploy page
+2017-05-11 17:33:55,387 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 17:33:59,918 - lib.AutomationLogger -INFO - Verification.pageLoaded - page DeployPage is loaded
+2017-05-11 17:34:00,036 - lib.AutomationLogger -INFO - What's new==What’s new
+2017-05-11 17:34:00,088 - lib.AutomationLogger -INFO - Deploy Holiday Party 2015==Deploy Holiday Party 2015
+2017-05-11 17:34:00,142 - lib.AutomationLogger -INFO - Ray Super Remote is here!==Ray Super Remote is here!
+2017-05-11 17:34:00,199 - lib.AutomationLogger -INFO - Deploy Tech Session - Technologies Behind Ray==Deploy Tech Session – Technologies Behind Ray
+2017-05-11 17:34:00,266 - lib.AutomationLogger -INFO - Deploy releases PhotoTicker for iPad==Deploy releases PhotoTicker for iPad
+2017-05-11 17:34:00,316 - lib.AutomationLogger -INFO - Deploy Releases Share My Contact for iPhone==Deploy Releases Share My Contact for iPhone
+2017-05-11 17:34:00,371 - lib.AutomationLogger -INFO - Deploy Event Sponsorship==Deploy Event Sponsorship
+2017-05-11 17:34:00,424 - lib.AutomationLogger -INFO - Deploy Holiday Party==Deploy Holiday Party
+2017-05-11 17:34:00,477 - lib.AutomationLogger -INFO - JobFair 2014 @ETF==JobFair 2014 @ETF
+2017-05-11 17:34:00,526 - lib.AutomationLogger -INFO - We're moving to a bigger, nicer office!==We’re moving to a bigger, nicer office!
+2017-05-11 17:34:00,528 - lib.AutomationLogger -INFO - FirstTest.testVerifySiteLogo - testVerifySiteLogo
+2017-05-11 17:34:01,201 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 17:35:07,663 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 17:35:07,681 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 17:35:07,697 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 17:35:10,363 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 17:35:11,576 - lib.AutomationLogger -INFO - FirstTest.testDeployBlogPage - Start tests on deploy page
+2017-05-11 17:35:11,596 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 17:35:14,918 - lib.AutomationLogger -INFO - Verification.pageLoaded - page DeployPage is loaded
+2017-05-11 17:35:15,040 - lib.AutomationLogger -INFO - What’s new==What’s new
+2017-05-11 17:35:15,092 - lib.AutomationLogger -INFO - Deploy Holiday Party 2015==Deploy Holiday Party 2015
+2017-05-11 17:35:15,143 - lib.AutomationLogger -INFO - Ray Super Remote is here!==Ray Super Remote is here!
+2017-05-11 17:35:15,206 - lib.AutomationLogger -INFO - Deploy Tech Session - Technologies Behind Ray==Deploy Tech Session – Technologies Behind Ray
+2017-05-11 17:35:15,251 - lib.AutomationLogger -INFO - Deploy releases PhotoTicker for iPad==Deploy releases PhotoTicker for iPad
+2017-05-11 17:35:15,301 - lib.AutomationLogger -INFO - Deploy Releases Share My Contact for iPhone==Deploy Releases Share My Contact for iPhone
+2017-05-11 17:35:15,354 - lib.AutomationLogger -INFO - Deploy Event Sponsorship==Deploy Event Sponsorship
+2017-05-11 17:35:15,402 - lib.AutomationLogger -INFO - Deploy Holiday Party==Deploy Holiday Party
+2017-05-11 17:35:15,452 - lib.AutomationLogger -INFO - JobFair 2014 @ETF==JobFair 2014 @ETF
+2017-05-11 17:35:15,508 - lib.AutomationLogger -INFO - We're moving to a bigger, nicer office!==We’re moving to a bigger, nicer office!
+2017-05-11 17:35:15,511 - lib.AutomationLogger -INFO - FirstTest.testVerifySiteLogo - testVerifySiteLogo
+2017-05-11 17:35:16,135 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 17:36:14,798 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 17:36:14,815 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 17:36:14,831 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 17:36:17,538 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 17:36:18,789 - lib.AutomationLogger -INFO - FirstTest.testDeployBlogPage - Start tests on deploy page
+2017-05-11 17:36:18,814 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 17:36:22,682 - lib.AutomationLogger -INFO - Verification.pageLoaded - page DeployPage is loaded
+2017-05-11 17:36:22,809 - lib.AutomationLogger -INFO - What’s new==What’s new
+2017-05-11 17:36:22,859 - lib.AutomationLogger -INFO - Deploy Holiday Party 2015==Deploy Holiday Party 2015
+2017-05-11 17:36:22,906 - lib.AutomationLogger -INFO - Ray Super Remote is here!==Ray Super Remote is here!
+2017-05-11 17:36:22,950 - lib.AutomationLogger -INFO - Deploy Tech Session – Technologies Behind Ray==Deploy Tech Session – Technologies Behind Ray
+2017-05-11 17:36:22,993 - lib.AutomationLogger -INFO - Deploy releases PhotoTicker for iPad==Deploy releases PhotoTicker for iPad
+2017-05-11 17:36:23,051 - lib.AutomationLogger -INFO - Deploy Releases Share My Contact for iPhone==Deploy Releases Share My Contact for iPhone
+2017-05-11 17:36:23,112 - lib.AutomationLogger -INFO - Deploy Event Sponsorship==Deploy Event Sponsorship
+2017-05-11 17:36:23,160 - lib.AutomationLogger -INFO - Deploy Holiday Party==Deploy Holiday Party
+2017-05-11 17:36:23,212 - lib.AutomationLogger -INFO - JobFair 2014 @ETF==JobFair 2014 @ETF
+2017-05-11 17:36:23,261 - lib.AutomationLogger -INFO - We’re moving to a bigger, nicer office!==We’re moving to a bigger, nicer office!
+2017-05-11 17:36:23,264 - lib.AutomationLogger -INFO - FirstTest.testVerifySiteLogo - testVerifySiteLogo
+2017-05-11 17:36:23,881 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 17:36:45,063 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 17:36:45,081 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 17:36:45,097 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 17:36:47,718 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 17:36:48,937 - lib.AutomationLogger -INFO - FirstTest.testDeployBlogPage - Start tests on deploy page
+2017-05-11 17:36:48,951 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 17:36:52,328 - lib.AutomationLogger -INFO - Verification.pageLoaded - page DeployPage is loaded
+2017-05-11 17:36:52,703 - lib.AutomationLogger -INFO - FirstTest.testVerifySiteLogo - testVerifySiteLogo
+2017-05-11 17:36:53,278 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 17:37:18,366 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 17:37:18,385 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 17:37:18,401 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 17:37:21,071 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 17:37:22,250 - lib.AutomationLogger -INFO - FirstTest.testDeployBlogPage - Start tests on deploy page
+2017-05-11 17:37:22,269 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 17:37:25,766 - lib.AutomationLogger -INFO - Verification.pageLoaded - page DeployPage is loaded
+2017-05-11 17:37:26,143 - lib.AutomationLogger -INFO - FirstTest.testVerifySiteLogo - testVerifySiteLogo
+2017-05-11 17:37:26,766 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 17:46:35,421 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 17:46:35,439 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 17:46:35,455 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 17:46:38,128 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 17:46:39,396 - lib.AutomationLogger -INFO - FirstTest.testDeployBlogPage - Start tests on deploy page
+2017-05-11 17:46:39,429 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 17:46:42,335 - lib.AutomationLogger -INFO - Verification.pageLoaded - page DeployPage is loaded
+2017-05-11 17:46:42,708 - lib.AutomationLogger -INFO - FirstTest.testVerifySiteLogo - testVerifySiteLogo
+2017-05-11 17:46:42,898 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 18:58:43,762 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 18:58:43,780 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 18:58:43,797 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 18:58:46,486 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 18:58:47,822 - lib.AutomationLogger -INFO - FirstTest.testDeployBlogPage - Start tests on deploy page
+2017-05-11 18:58:47,851 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 18:58:50,238 - lib.AutomationLogger -INFO - Verification.pageLoaded - page DeployPage is loaded
+2017-05-11 18:58:50,601 - lib.AutomationLogger -INFO - FirstTest.testVerifySiteLogo - testVerifySiteLogo
+2017-05-11 18:58:50,772 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 19:00:05,875 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 19:00:05,894 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 19:00:05,913 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 19:00:08,568 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 19:00:09,863 - lib.AutomationLogger -INFO - FirstTest.testDeployBlogPage - Start tests on deploy page
+2017-05-11 19:00:09,882 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 19:00:12,133 - lib.AutomationLogger -INFO - Verification.pageLoaded - page DeployPage is loaded
+2017-05-11 19:00:12,491 - lib.AutomationLogger -INFO - FirstTest.testVerifySiteLogo - testVerifySiteLogo
+2017-05-11 19:00:12,648 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 19:02:11,143 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 19:02:11,162 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 19:02:11,180 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 19:02:13,870 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 19:02:15,195 - lib.AutomationLogger -INFO - FirstTest.testDeployBlogPage - Start tests on deploy page
+2017-05-11 19:02:15,216 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 19:02:17,625 - lib.AutomationLogger -INFO - Verification.pageLoaded - page DeployPage is loaded
+2017-05-11 19:02:17,955 - lib.AutomationLogger -INFO - FirstTest.testVerifySiteLogo - testVerifySiteLogo
+2017-05-11 19:02:18,142 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 19:24:49,667 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 19:24:49,689 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 19:24:49,708 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 19:24:52,396 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 19:24:53,649 - lib.AutomationLogger -INFO - FirstTest.testDeployBlogPage - Start tests on deploy page
+2017-05-11 19:24:53,674 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 19:24:56,025 - lib.AutomationLogger -INFO - Verification.pageLoaded - page DeployPage is loaded
+2017-05-11 19:24:56,369 - lib.AutomationLogger -INFO - FirstTest.testVerifySiteLogo - testVerifySiteLogo
+2017-05-11 19:24:56,528 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 19:27:32,549 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 19:27:32,570 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 19:27:32,588 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 19:27:35,332 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 19:27:36,557 - lib.AutomationLogger -INFO - FirstTest.testDeployBlogPage - Start tests on deploy page
+2017-05-11 19:27:36,583 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 19:27:39,033 - lib.AutomationLogger -INFO - Verification.pageLoaded - page DeployPage is loaded
+2017-05-11 19:27:39,400 - lib.AutomationLogger -INFO - FirstTest.testVerifySiteLogo - testVerifySiteLogo
+2017-05-11 19:27:39,579 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 19:29:16,701 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 19:29:16,725 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 19:29:16,745 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 19:29:19,432 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 19:29:20,664 - lib.AutomationLogger -INFO - FirstTest.testDeployBlogPage - Start tests on deploy page
+2017-05-11 19:29:20,693 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 19:29:23,109 - lib.AutomationLogger -INFO - Verification.pageLoaded - page DeployPage is loaded
+2017-05-11 19:29:24,045 - lib.AutomationLogger -INFO - FirstTest.testVerifySiteLogo - testVerifySiteLogo
+2017-05-11 19:29:24,184 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 19:30:57,296 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 19:30:57,323 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 19:30:57,343 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 19:30:59,986 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 19:31:01,191 - lib.AutomationLogger -INFO - FirstTest.testDeployBlogPage - Start tests on deploy page
+2017-05-11 19:31:01,214 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 19:31:03,627 - lib.AutomationLogger -INFO - Verification.pageLoaded - page DeployPage is loaded
+2017-05-11 19:31:04,631 - lib.AutomationLogger -INFO - FirstTest.testVerifySiteLogo - testVerifySiteLogo
+2017-05-11 19:31:04,769 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 19:31:46,611 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 19:31:46,632 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 19:31:46,649 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 19:31:49,339 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 19:31:50,582 - lib.AutomationLogger -INFO - FirstTest.testDeployBlogPage - Start tests on deploy page
+2017-05-11 19:31:50,615 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 19:31:53,047 - lib.AutomationLogger -INFO - Verification.pageLoaded - page DeployPage is loaded
+2017-05-11 19:31:54,118 - lib.AutomationLogger -INFO - FirstTest.testVerifySiteLogo - testVerifySiteLogo
+2017-05-11 19:31:54,281 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 19:33:18,946 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 19:33:18,967 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 19:33:18,984 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 19:33:21,616 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 19:33:22,839 - lib.AutomationLogger -INFO - FirstTest.testDeployBlogPage - Start tests on deploy page
+2017-05-11 19:33:22,875 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 19:33:25,236 - lib.AutomationLogger -INFO - Verification.pageLoaded - page DeployPage is loaded
+2017-05-11 19:33:26,371 - lib.AutomationLogger -INFO - FirstTest.testVerifySiteLogo - testVerifySiteLogo
+2017-05-11 19:33:26,525 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 19:36:44,806 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 19:36:44,828 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 19:36:44,844 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 19:36:47,493 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 19:36:48,701 - lib.AutomationLogger -INFO - FirstTest.testDeployBlogPage - Start tests on deploy page
+2017-05-11 19:36:48,733 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 19:36:51,192 - lib.AutomationLogger -INFO - Verification.pageLoaded - page DeployPage is loaded
+2017-05-11 19:36:52,283 - lib.AutomationLogger -INFO - FirstTest.testVerifySiteLogo - testVerifySiteLogo
+2017-05-11 19:36:52,439 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 19:52:03,987 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 19:52:04,010 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 19:52:04,027 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 19:52:06,680 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 19:52:07,906 - lib.AutomationLogger -INFO - FirstTest.testDeployBlogPage - Start tests on deploy page
+2017-05-11 19:52:07,933 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 19:52:10,331 - lib.AutomationLogger -INFO - Verification.pageLoaded - page DeployPage is loaded
+2017-05-11 19:52:11,501 - lib.AutomationLogger -INFO - FirstTest.testVerifySiteLogo - testVerifySiteLogo
+2017-05-11 19:52:11,650 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 20:17:59,892 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 20:17:59,914 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 20:17:59,933 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 20:18:02,604 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 20:18:03,815 - lib.AutomationLogger -INFO - FirstTest.testDeployBlogPage - Start tests on deploy page
+2017-05-11 20:18:03,835 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 20:18:06,276 - lib.AutomationLogger -INFO - Verification.pageLoaded - page DeployPage is loaded
+2017-05-11 20:18:06,279 - lib.AutomationLogger -INFO - FirstTest.testVerifySiteLogo - testVerifySiteLogo
+2017-05-11 20:18:07,144 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 20:22:13,641 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 20:22:13,664 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 20:22:13,684 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 20:22:16,401 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 20:22:17,627 - lib.AutomationLogger -INFO - FirstTest.testDeployBlogPage - Start tests on deploy page
+2017-05-11 20:22:17,647 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 20:22:19,967 - lib.AutomationLogger -INFO - Verification.pageLoaded - page DeployPage is loaded
+2017-05-11 20:22:19,971 - lib.AutomationLogger -INFO - FirstTest.testVerifySiteLogo - testVerifySiteLogo
+2017-05-11 20:22:20,869 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-05-11 20:24:25,276 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-05-11 20:24:25,300 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-05-11 20:24:25,318 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-05-11 20:24:28,029 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-05-11 20:24:29,256 - lib.AutomationLogger -INFO - FirstTest.testDeployBlogPage - Start tests on deploy page
+2017-05-11 20:24:29,295 - lib.AutomationLogger -INFO - Driver.openDeployPage - Open Deploy page
+2017-05-11 20:24:32,691 - lib.AutomationLogger -INFO - Verification.pageLoaded - page DeployPage is loaded
+2017-05-11 20:24:32,694 - lib.AutomationLogger -INFO - FirstTest.testVerifySiteLogo - testVerifySiteLogo
+2017-05-11 20:24:32,901 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 12:33:47,869 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 12:33:47,896 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 12:33:47,917 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 12:33:51,767 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 12:33:52,997 - lib.AutomationLogger -INFO - FirstTest.testDeployBlogPage - Start tests on deploy page
+2017-07-15 12:33:53,031 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 12:34:09,450 - lib.AutomationLogger -INFO - FirstTest.testEditSiteLogo - testEditSiteLogo
+2017-07-15 12:34:09,647 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 12:38:35,348 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 12:38:35,374 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 12:38:35,391 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 12:38:37,965 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 12:38:39,177 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 12:38:39,212 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 12:38:50,989 - lib.AutomationLogger -INFO - FirstTest.testEditSiteLogo - testEditSiteLogo
+2017-07-15 12:38:51,135 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 12:40:01,505 - lib.AutomationLogger -INFO - BaseTest.setUp - create a firefox driver
+2017-07-15 12:40:01,529 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - firefox opened
+2017-07-15 12:40:01,534 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 13:46:01,920 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 13:46:01,950 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 13:46:01,973 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 13:46:40,102 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 13:46:40,135 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 13:46:40,152 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 13:46:43,577 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 13:46:44,840 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 13:46:44,861 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 13:46:47,645 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 13:48:06,439 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 13:48:06,473 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 13:48:06,494 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 13:48:09,399 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 13:48:10,627 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 13:48:10,657 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 13:48:17,859 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 13:48:19,949 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 13:57:06,598 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 13:57:06,628 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 13:57:06,648 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 13:57:09,259 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 13:57:10,476 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 13:57:10,497 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 13:57:16,476 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 13:57:18,971 - lib.AutomationLogger -INFO - FirstTest.testEditSiteLogo - testEditSiteLogo
+2017-07-15 13:57:19,192 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 13:59:00,373 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 13:59:00,393 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 13:59:00,413 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 13:59:02,984 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 13:59:04,207 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 13:59:04,229 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 13:59:09,780 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 13:59:14,986 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsProfilePage is loaded
+2017-07-15 13:59:16,885 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 13:59:16,887 - lib.AutomationLogger -INFO - FirstTest.testEditSiteLogo - testEditSiteLogo
+2017-07-15 13:59:17,077 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 14:05:04,959 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 14:05:04,989 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 14:05:04,999 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 14:05:07,574 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 14:05:08,767 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 14:05:08,788 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 14:05:14,266 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 14:05:20,122 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsProfilePage is loaded
+2017-07-15 14:05:21,851 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 14:05:22,484 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 14:07:15,464 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 14:07:15,484 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 14:07:15,504 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 14:07:18,098 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 14:07:19,324 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 14:07:19,355 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 14:07:25,631 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 14:07:31,282 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsProfilePage is loaded
+2017-07-15 14:07:32,630 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 14:07:33,908 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 14:13:00,041 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 14:13:00,071 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 14:13:00,091 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 14:13:02,715 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 14:13:03,949 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 14:13:03,989 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 14:13:09,587 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 14:13:14,765 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsProfilePage is loaded
+2017-07-15 14:13:16,418 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 14:13:17,126 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 14:19:47,960 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 14:19:47,980 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 14:19:48,000 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 14:19:50,819 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 14:19:52,033 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 14:19:52,064 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 14:19:58,114 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 14:20:03,599 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsProfilePage is loaded
+2017-07-15 14:20:05,179 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 14:20:06,243 - lib.AutomationLogger -INFO - FirstTest.testEditSiteLogo - testEditSiteLogo
+2017-07-15 14:20:06,440 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 14:29:30,915 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 14:29:30,935 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 14:29:30,955 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 14:29:33,585 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 14:29:34,806 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 14:29:34,847 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 14:29:40,949 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 14:29:46,720 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsProfilePage is loaded
+2017-07-15 14:29:48,343 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 14:29:59,064 - lib.AutomationLogger -INFO - FirstTest.testEditSiteLogo - testEditSiteLogo
+2017-07-15 14:29:59,367 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 14:39:17,837 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 14:39:17,867 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 14:39:17,887 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 14:39:20,477 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 14:39:21,702 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 14:39:21,733 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 14:39:28,815 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 14:39:35,527 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsProfilePage is loaded
+2017-07-15 14:39:36,876 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 14:39:48,121 - lib.AutomationLogger -INFO - FirstTest.testEditSiteLogo - testEditSiteLogo
+2017-07-15 14:39:48,352 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 14:45:45,567 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 14:45:45,597 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 14:45:45,617 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 14:45:48,191 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 14:45:49,410 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 14:45:49,434 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 14:45:58,685 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 14:46:03,684 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsProfilePage is loaded
+2017-07-15 14:46:05,181 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 14:46:16,513 - lib.AutomationLogger -INFO - FirstTest.testEditSiteLogo - testEditSiteLogo
+2017-07-15 14:46:16,754 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 14:46:48,763 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 14:46:48,793 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 14:46:48,813 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 14:46:51,386 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 14:46:52,619 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 14:46:52,650 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 14:46:58,677 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 14:47:04,687 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsProfilePage is loaded
+2017-07-15 14:47:06,183 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 14:47:07,615 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 14:48:57,655 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 14:48:57,675 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 14:48:57,695 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 14:49:00,272 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 14:49:01,530 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 14:49:01,571 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 14:49:29,778 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 14:49:35,599 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsProfilePage is loaded
+2017-07-15 14:49:37,028 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 14:49:38,796 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 15:02:37,035 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 15:02:37,055 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 15:02:37,075 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 15:02:39,630 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 15:02:40,836 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 15:02:40,867 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 15:02:46,443 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 15:02:52,205 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsProfilePage is loaded
+2017-07-15 15:02:53,690 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 15:02:55,026 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 15:03:41,143 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 15:03:41,173 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 15:03:41,193 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 15:03:43,828 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 15:03:45,061 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 15:03:45,102 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 15:03:50,457 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 15:03:55,770 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsProfilePage is loaded
+2017-07-15 15:03:57,212 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 15:04:08,364 - lib.AutomationLogger -INFO - FirstTest.testEditSiteLogo - testEditSiteLogo
+2017-07-15 15:04:08,605 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 15:04:59,327 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 15:04:59,357 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 15:04:59,367 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 15:05:02,016 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 15:05:03,238 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 15:05:03,269 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 15:05:09,275 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 15:05:15,015 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsProfilePage is loaded
+2017-07-15 15:05:16,624 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 15:05:27,690 - lib.AutomationLogger -INFO - FirstTest.testEditSiteLogo - testEditSiteLogo
+2017-07-15 15:05:27,911 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 15:24:20,916 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 15:24:20,946 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 15:24:20,967 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 15:24:23,629 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 15:24:24,839 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 15:24:24,869 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 15:24:30,454 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 15:24:35,661 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsProfilePage is loaded
+2017-07-15 15:24:37,190 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 15:24:48,447 - lib.AutomationLogger -INFO - FirstTest.testEditSiteLogo - testEditSiteLogo
+2017-07-15 15:24:48,708 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 15:27:05,802 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 15:27:05,835 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 15:27:05,851 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 15:27:08,435 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 15:27:09,650 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 15:27:09,679 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 15:27:15,094 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 15:27:21,090 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsProfilePage is loaded
+2017-07-15 15:27:22,473 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 15:27:33,506 - lib.AutomationLogger -INFO - FirstTest.testEditSiteLogo - testEditSiteLogo
+2017-07-15 15:27:33,769 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 15:28:25,214 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 15:28:25,243 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 15:28:25,259 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 15:28:27,813 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 15:28:29,016 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 15:28:29,043 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 15:28:34,541 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 15:28:39,935 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsProfilePage is loaded
+2017-07-15 15:28:41,507 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 15:28:52,675 - lib.AutomationLogger -INFO - FirstTest.testEditSiteLogo - testEditSiteLogo
+2017-07-15 15:28:52,986 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 15:40:31,286 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 15:40:31,321 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 15:40:31,338 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 15:40:33,949 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 15:40:35,154 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 15:40:35,181 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 15:40:40,741 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 15:40:45,986 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsProfilePage is loaded
+2017-07-15 15:40:47,482 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 15:40:58,764 - lib.AutomationLogger -INFO - FirstTest.testEditSiteLogo - testEditSiteLogo
+2017-07-15 15:40:58,987 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 15:41:44,308 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 15:41:44,340 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 15:41:44,356 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 15:41:46,965 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 15:41:48,139 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 15:41:48,165 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 15:42:45,723 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 15:42:51,165 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsProfilePage is loaded
+2017-07-15 15:42:52,673 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 15:43:03,712 - lib.AutomationLogger -INFO - FirstTest.testEditSiteLogo - testEditSiteLogo
+2017-07-15 15:43:04,002 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 15:43:48,256 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 15:43:48,290 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 15:43:48,318 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 15:43:50,978 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 15:43:52,215 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 15:43:52,250 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 15:43:58,021 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 15:44:03,041 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsProfilePage is loaded
+2017-07-15 15:44:04,501 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 15:44:15,508 - lib.AutomationLogger -INFO - FirstTest.testEditSiteLogo - testEditSiteLogo
+2017-07-15 15:44:15,722 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 15:45:01,204 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 15:45:01,236 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 15:45:01,254 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 15:45:03,832 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 15:45:05,045 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 15:45:05,082 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 15:45:11,797 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 15:45:17,269 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsProfilePage is loaded
+2017-07-15 15:45:19,001 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 15:45:29,510 - lib.AutomationLogger -INFO - FirstTest.testEditSiteLogo - testEditSiteLogo
+2017-07-15 15:45:31,693 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 15:46:03,403 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 15:46:03,434 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 15:46:03,462 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 15:46:06,008 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 15:46:07,198 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 15:46:07,227 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 15:46:12,810 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 15:46:17,862 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsProfilePage is loaded
+2017-07-15 15:46:19,614 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 15:46:30,380 - lib.AutomationLogger -INFO - FirstTest.testEditSiteLogo - testEditSiteLogo
+2017-07-15 15:46:30,639 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 15:49:16,160 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 15:49:16,189 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 15:49:16,207 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 15:49:18,830 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 15:49:20,043 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 15:49:20,083 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 15:49:25,679 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 15:49:30,962 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsProfilePage is loaded
+2017-07-15 15:49:32,458 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 15:49:43,711 - lib.AutomationLogger -INFO - FirstTest.testEditSiteLogo - testEditSiteLogo
+2017-07-15 15:49:43,940 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 15:50:18,941 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 15:50:18,973 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 15:50:18,989 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 15:50:21,573 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 15:50:22,797 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 15:50:22,825 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 15:50:34,333 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 15:50:39,632 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsProfilePage is loaded
+2017-07-15 15:50:41,253 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 15:50:52,272 - lib.AutomationLogger -INFO - FirstTest.testEditSiteLogo - testEditSiteLogo
+2017-07-15 15:50:52,471 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 15:51:27,157 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 15:51:27,188 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 15:51:27,204 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 15:51:29,813 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 15:51:31,000 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 15:51:31,032 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 15:51:36,523 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 15:51:41,983 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsProfilePage is loaded
+2017-07-15 15:51:43,696 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 15:51:54,886 - lib.AutomationLogger -INFO - FirstTest.testEditSiteLogo - testEditSiteLogo
+2017-07-15 15:51:55,128 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 16:01:06,724 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 16:01:06,764 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 16:01:06,784 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 16:01:09,359 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 16:01:10,593 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 16:01:10,634 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 16:01:16,887 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 16:02:04,118 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 16:02:04,158 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 16:02:04,168 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 16:02:06,745 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 16:02:07,994 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 16:02:08,035 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 16:02:17,047 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 16:02:23,915 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 16:02:23,945 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 16:02:23,965 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 16:02:26,519 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 16:02:27,728 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 16:02:27,759 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 16:02:43,327 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 16:08:46,327 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 16:08:46,369 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 16:08:46,391 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 16:08:50,136 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 16:08:51,324 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 16:08:51,356 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 16:09:19,666 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 16:09:40,836 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 16:09:40,880 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 16:09:40,897 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 16:09:43,559 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 16:09:44,658 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 16:09:44,706 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 16:09:50,153 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 16:09:56,628 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 16:09:56,664 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 16:09:56,680 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 16:09:59,234 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 16:10:00,463 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 16:10:00,492 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 16:10:05,730 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 16:12:04,894 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 16:12:04,952 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 16:12:04,983 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 16:12:08,213 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 16:12:09,444 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 16:12:09,515 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 16:12:19,959 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 16:13:42,374 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 16:13:42,442 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 16:13:42,467 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 16:13:45,773 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 16:13:47,012 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 16:13:47,071 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 16:13:58,814 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 16:15:07,974 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 16:15:08,038 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 16:15:08,079 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 16:15:11,372 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 16:15:12,613 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 16:15:12,670 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 16:15:29,644 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 16:15:43,173 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 16:15:43,237 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 16:15:43,269 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 16:15:46,521 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 16:15:47,768 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 16:15:47,841 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 16:16:05,052 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 16:20:55,470 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 16:20:55,515 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 16:20:55,531 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 16:20:58,361 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 16:20:59,573 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 16:20:59,622 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 16:21:11,895 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 16:24:56,398 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 16:24:56,447 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 16:24:56,467 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 16:24:59,266 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 16:25:00,502 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 16:25:00,541 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 16:25:12,550 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 16:26:49,350 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 16:26:49,403 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 16:26:49,422 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 16:26:52,186 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 16:26:53,422 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 16:26:53,456 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 16:27:11,626 - lib.AutomationLogger -INFO - Verification.pageLoaded - page insidemapsPage is loaded
+2017-07-15 16:27:16,048 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 16:30:16,194 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 16:30:16,249 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 16:30:16,268 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 16:30:19,698 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 16:30:20,941 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 16:30:20,984 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 16:30:32,472 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 16:32:53,266 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 16:32:53,308 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 16:32:53,326 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 16:32:55,956 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 16:32:57,181 - lib.AutomationLogger -INFO - TestChangingLogo.testInsidemapsPageLoaded - Start test
+2017-07-15 16:32:57,213 - lib.AutomationLogger -INFO - Driver.openInsidemapsPage - Open insidemaps Page
+2017-07-15 16:33:11,901 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 16:34:00,552 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 16:34:00,590 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 16:34:00,607 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 16:34:03,207 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 16:34:04,546 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 16:38:21,643 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 16:38:21,683 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 16:38:21,703 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 16:38:24,340 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 16:38:25,736 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 16:50:56,635 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 16:50:56,682 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 16:50:56,697 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 16:50:59,322 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 16:51:00,727 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down
+2017-07-15 16:55:06,646 - lib.AutomationLogger -INFO - BaseTest.setUp - create a chrome driver
+2017-07-15 16:55:06,693 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - chrome
+2017-07-15 16:55:06,708 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Open browser on remote machine 127.0.0.1
+2017-07-15 16:55:09,322 - lib.AutomationLogger -INFO - Driver.openBrowserOnRemoteMasine - Maximize the browser
+2017-07-15 16:55:10,650 - lib.AutomationLogger -INFO - BaseTest.tearDown - tear down

@@ -3,14 +3,14 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="test.FirstTest">
+      <class name="test.TestChangingLogo">
         <methods>
           <include name="setUp"/>
-          <include name="testStaticContent"/>
+          <include name="testListingPage"/>
           <include name="tearDown"/>
-          <include name="testTitles"/>
+          <include name="testInsidemapsListingPageLoaded"/>
         </methods>
-      </class> <!-- test.FirstTest -->
+      </class> <!-- test.TestChangingLogo -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

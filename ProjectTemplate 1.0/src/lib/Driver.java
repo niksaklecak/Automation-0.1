@@ -12,7 +12,6 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.PageFactory;
 
-import lib.DeployPage;
 
 public class Driver {
 	
@@ -83,11 +82,11 @@ public class Driver {
 		driver.get("http://www.google.com");
 		return  PageFactory.initElements(driver, GooglePage.class);
 	}
-	public static DeployPage openDeployPage(WebDriver driver){
+	public static InsidemapsPage openInsidemapsPage(WebDriver driver){
 		AutomationLogger logger = new AutomationLogger();
-		logger.logInfo("Driver.openDeployPage - Open Deploy page");
-		driver.get("https://www.deployinc.com/category/whats-new/");
-		return  PageFactory.initElements(driver, DeployPage.class);
+		logger.logInfo("Driver.openInsidemapsPage - Open insidemaps Page");
+		driver.get("https://marko.insidemaps.com/");
+		return  PageFactory.initElements(driver, InsidemapsPage.class);
 	}
 
 }
